@@ -17,3 +17,4 @@ First Arduino Project!
 The project involved making a working VU Meter. We used both the LM3916 and the Arduino for initial testing, finally decided to make it using the Arduino as it showed a better and faster response to the audio sent in. 
 The ADC of the arduino reads in sound variation on a range of 0-1023, this is then mapped onto 10 LED's as shown. This is also then sent via the Serial port and plotted on the laptop using either Matlab or Python.
 
+Crude video of the testing time : http://youtu.be/n8Sp0q_KUSM
